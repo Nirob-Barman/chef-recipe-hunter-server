@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "pictureUrl": "https://example.com/chef1.jpg",
+        "name": "John Doe",
+        "experience": "10 years",
+        "recipes": "200+",
+        "likes": "4,500+"
+    },
+    {
+        "id": "2",
+        "pictureUrl": "https://example.com/chef2.jpg",
+        "name": "Jane Smith",
+        "experience": "15 years",
+        "recipes": "300+",
+        "likes": "6,000+"
+    },
+    {
+        "id": "3",
+        "pictureUrl": "https://example.com/chef3.jpg",
+        "name": "Mike Johnson",
+        "experience": "5 years",
+        "recipes": "100+",
+        "likes": "2,000+"
+    },
+    {
+        "id": "4",
+        "pictureUrl": "https://example.com/chef4.jpg",
+        "name": "Sara Lee",
+        "experience": "20 years",
+        "recipes": "500+",
+        "likes": "8,000+"
+    },
+    {
+        "id": "5",
+        "pictureUrl": "https://example.com/chef5.jpg",
+        "name": "David Kim",
+        "experience": "8 years",
+        "recipes": "150+",
+        "likes": "3,500+"
+    },
+    {
+        "id": "6",
+        "pictureUrl": "https://example.com/chef6.jpg",
+        "name": "Jessica Chen",
+        "experience": "12 years",
+        "recipes": "250+",
+        "likes": "5,500+"
+    }
+]
