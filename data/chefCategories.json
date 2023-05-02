@@ -1,50 +1,362 @@
 [
     {
         "id": "1",
-        "pictureUrl": "https://example.com/chef1.jpg",
+        "pictureUrl": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
         "name": "John Doe",
         "experience": "10 years",
         "recipes": "200+",
-        "likes": "4,500+"
+        "likes": "4,500+",
+        "recipesList": [
+            {
+                "name": "Chicken Parmesan",
+                "description": "Juicy, tender roast chicken with crispy skin.",
+                "image": "https://img.freepik.com/free-photo/baked-turkey-christmas-dinner-christmas-table-is-served-with-turkey-decorated-with-bright-tinsel-candles-fried-chicken-table-family-dinner_2829-6079.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=aiss",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup all-purpose flour",
+                    "2 eggs, beaten",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons olive oil"
+                ],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Place breadcrumbs and Parmesan cheese in a shallow dish. \n3. Place flour in a separate shallow dish. \n4. Place beaten eggs in another shallow dish. \n5. Coat chicken breasts in flour, shaking off excess. \n6. Dip in egg, then coat in breadcrumb mixture. \n7. Heat olive oil in a large skillet over medium-high heat. \n8. Add chicken to skillet and cook until browned on both sides. \n9. Transfer chicken to a baking dish. \n10. Pour marinara sauce over chicken. \n11. Top with shredded mozzarella cheese. \n12. Bake for 20 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "description": "A rustic vegetable stew with a rich tomato sauce.",
+                "image": "https://img.freepik.com/premium-photo/pan-pasta-with-tomato-sauce-basil-leaves-dark-background_107062-826.jpg?size=626&ext=jpg&ga=GA1.2.272230184.1683002624&semt=sph",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup olive oil",
+                    "Salt and pepper to taste"
+                ],
+                "cookingMethod": "1. Cook pasta according to package instructions. \n2. In a food processor, pulse basil leaves and garlic until finely chopped. \n3. Add Parmesan cheese and pulse to combine. \n4. With the food processor running, slowly pour in olive oil until the mixture forms a smooth sauce. \n5. Season with salt and pepper to taste. \n6. Toss pasta with pesto sauce.",
+                "rating": 4.2
+            },
+            {
+                "name": "Grilled Salmon",
+                "description": "A decadent dessert with a light, airy texture.",
+                "image": "https://img.freepik.com/free-photo/side-view-grilled-salmon-served-with-vegetables-sauce-wooden-board_140725-11974.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=ais",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tablespoons lemon juice",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon ground black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill for medium heat. \n2. In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper. \n3. Brush salmon with the olive oil mixture. \n4. Place salmon on the grill, skin side down. \n5. Grill for 10 to 12 minutes, or until the fish flakes easily with a fork.",
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": "2",
-        "pictureUrl": "https://example.com/chef2.jpg",
+        "pictureUrl": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
         "name": "Jane Smith",
         "experience": "15 years",
         "recipes": "300+",
-        "likes": "6,000+"
+        "likes": "6,000+",
+        "recipesList": [
+            {
+                "name": "Chicken Parmesan",
+                "description": "Juicy, tender roast chicken with crispy skin.",
+                "image": "https://img.freepik.com/free-photo/baked-turkey-christmas-dinner-christmas-table-is-served-with-turkey-decorated-with-bright-tinsel-candles-fried-chicken-table-family-dinner_2829-6079.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=aiss",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup all-purpose flour",
+                    "2 eggs, beaten",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons olive oil"
+                ],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Place breadcrumbs and Parmesan cheese in a shallow dish. \n3. Place flour in a separate shallow dish. \n4. Place beaten eggs in another shallow dish. \n5. Coat chicken breasts in flour, shaking off excess. \n6. Dip in egg, then coat in breadcrumb mixture. \n7. Heat olive oil in a large skillet over medium-high heat. \n8. Add chicken to skillet and cook until browned on both sides. \n9. Transfer chicken to a baking dish. \n10. Pour marinara sauce over chicken. \n11. Top with shredded mozzarella cheese. \n12. Bake for 20 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "description": "A rustic vegetable stew with a rich tomato sauce.",
+                "image": "https://img.freepik.com/premium-photo/pan-pasta-with-tomato-sauce-basil-leaves-dark-background_107062-826.jpg?size=626&ext=jpg&ga=GA1.2.272230184.1683002624&semt=sph",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup olive oil",
+                    "Salt and pepper to taste"
+                ],
+                "cookingMethod": "1. Cook pasta according to package instructions. \n2. In a food processor, pulse basil leaves and garlic until finely chopped. \n3. Add Parmesan cheese and pulse to combine. \n4. With the food processor running, slowly pour in olive oil until the mixture forms a smooth sauce. \n5. Season with salt and pepper to taste. \n6. Toss pasta with pesto sauce.",
+                "rating": 4.2
+            },
+            {
+                "name": "Grilled Salmon",
+                "description": "A decadent dessert with a light, airy texture.",
+                "image": "https://img.freepik.com/free-photo/side-view-grilled-salmon-served-with-vegetables-sauce-wooden-board_140725-11974.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=ais",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tablespoons lemon juice",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon ground black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill for medium heat. \n2. In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper. \n3. Brush salmon with the olive oil mixture. \n4. Place salmon on the grill, skin side down. \n5. Grill for 10 to 12 minutes, or until the fish flakes easily with a fork.",
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": "3",
-        "pictureUrl": "https://example.com/chef3.jpg",
+        "pictureUrl": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
         "name": "Mike Johnson",
         "experience": "5 years",
         "recipes": "100+",
-        "likes": "2,000+"
+        "likes": "2,000+",
+        "recipesList": [
+            {
+                "name": "Chicken Parmesan",
+                "description": "Juicy, tender roast chicken with crispy skin.",
+                "image": "https://img.freepik.com/free-photo/baked-turkey-christmas-dinner-christmas-table-is-served-with-turkey-decorated-with-bright-tinsel-candles-fried-chicken-table-family-dinner_2829-6079.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=aiss",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup all-purpose flour",
+                    "2 eggs, beaten",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons olive oil"
+                ],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Place breadcrumbs and Parmesan cheese in a shallow dish. \n3. Place flour in a separate shallow dish. \n4. Place beaten eggs in another shallow dish. \n5. Coat chicken breasts in flour, shaking off excess. \n6. Dip in egg, then coat in breadcrumb mixture. \n7. Heat olive oil in a large skillet over medium-high heat. \n8. Add chicken to skillet and cook until browned on both sides. \n9. Transfer chicken to a baking dish. \n10. Pour marinara sauce over chicken. \n11. Top with shredded mozzarella cheese. \n12. Bake for 20 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "description": "A rustic vegetable stew with a rich tomato sauce.",
+                "image": "https://img.freepik.com/premium-photo/pan-pasta-with-tomato-sauce-basil-leaves-dark-background_107062-826.jpg?size=626&ext=jpg&ga=GA1.2.272230184.1683002624&semt=sph",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup olive oil",
+                    "Salt and pepper to taste"
+                ],
+                "cookingMethod": "1. Cook pasta according to package instructions. \n2. In a food processor, pulse basil leaves and garlic until finely chopped. \n3. Add Parmesan cheese and pulse to combine. \n4. With the food processor running, slowly pour in olive oil until the mixture forms a smooth sauce. \n5. Season with salt and pepper to taste. \n6. Toss pasta with pesto sauce.",
+                "rating": 4.2
+            },
+            {
+                "name": "Grilled Salmon",
+                "description": "A decadent dessert with a light, airy texture.",
+                "image": "https://img.freepik.com/free-photo/side-view-grilled-salmon-served-with-vegetables-sauce-wooden-board_140725-11974.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=ais",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tablespoons lemon juice",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon ground black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill for medium heat. \n2. In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper. \n3. Brush salmon with the olive oil mixture. \n4. Place salmon on the grill, skin side down. \n5. Grill for 10 to 12 minutes, or until the fish flakes easily with a fork.",
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": "4",
-        "pictureUrl": "https://example.com/chef4.jpg",
+        "pictureUrl": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
         "name": "Sara Lee",
         "experience": "20 years",
         "recipes": "500+",
-        "likes": "8,000+"
+        "likes": "8,000+",
+        "recipesList": [
+            {
+                "name": "Chicken Parmesan",
+                "description": "Juicy, tender roast chicken with crispy skin.",
+                "image": "https://img.freepik.com/free-photo/baked-turkey-christmas-dinner-christmas-table-is-served-with-turkey-decorated-with-bright-tinsel-candles-fried-chicken-table-family-dinner_2829-6079.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=aiss",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup all-purpose flour",
+                    "2 eggs, beaten",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons olive oil"
+                ],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Place breadcrumbs and Parmesan cheese in a shallow dish. \n3. Place flour in a separate shallow dish. \n4. Place beaten eggs in another shallow dish. \n5. Coat chicken breasts in flour, shaking off excess. \n6. Dip in egg, then coat in breadcrumb mixture. \n7. Heat olive oil in a large skillet over medium-high heat. \n8. Add chicken to skillet and cook until browned on both sides. \n9. Transfer chicken to a baking dish. \n10. Pour marinara sauce over chicken. \n11. Top with shredded mozzarella cheese. \n12. Bake for 20 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "description": "A rustic vegetable stew with a rich tomato sauce.",
+                "image": "https://img.freepik.com/premium-photo/pan-pasta-with-tomato-sauce-basil-leaves-dark-background_107062-826.jpg?size=626&ext=jpg&ga=GA1.2.272230184.1683002624&semt=sph",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup olive oil",
+                    "Salt and pepper to taste"
+                ],
+                "cookingMethod": "1. Cook pasta according to package instructions. \n2. In a food processor, pulse basil leaves and garlic until finely chopped. \n3. Add Parmesan cheese and pulse to combine. \n4. With the food processor running, slowly pour in olive oil until the mixture forms a smooth sauce. \n5. Season with salt and pepper to taste. \n6. Toss pasta with pesto sauce.",
+                "rating": 4.2
+            },
+            {
+                "name": "Grilled Salmon",
+                "description": "A decadent dessert with a light, airy texture.",
+                "image": "https://img.freepik.com/free-photo/side-view-grilled-salmon-served-with-vegetables-sauce-wooden-board_140725-11974.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=ais",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tablespoons lemon juice",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon ground black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill for medium heat. \n2. In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper. \n3. Brush salmon with the olive oil mixture. \n4. Place salmon on the grill, skin side down. \n5. Grill for 10 to 12 minutes, or until the fish flakes easily with a fork.",
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": "5",
-        "pictureUrl": "https://example.com/chef5.jpg",
+        "pictureUrl": "https://img.freepik.com/free-photo/medium-shot-smiley-people-cooking-pasta_23-2149631678.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
         "name": "David Kim",
         "experience": "8 years",
         "recipes": "150+",
-        "likes": "3,500+"
+        "likes": "3,500+",
+        "recipesList": [
+            {
+                "name": "Chicken Parmesan",
+                "description": "Juicy, tender roast chicken with crispy skin.",
+                "image": "https://img.freepik.com/free-photo/baked-turkey-christmas-dinner-christmas-table-is-served-with-turkey-decorated-with-bright-tinsel-candles-fried-chicken-table-family-dinner_2829-6079.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=aiss",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup all-purpose flour",
+                    "2 eggs, beaten",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons olive oil"
+                ],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Place breadcrumbs and Parmesan cheese in a shallow dish. \n3. Place flour in a separate shallow dish. \n4. Place beaten eggs in another shallow dish. \n5. Coat chicken breasts in flour, shaking off excess. \n6. Dip in egg, then coat in breadcrumb mixture. \n7. Heat olive oil in a large skillet over medium-high heat. \n8. Add chicken to skillet and cook until browned on both sides. \n9. Transfer chicken to a baking dish. \n10. Pour marinara sauce over chicken. \n11. Top with shredded mozzarella cheese. \n12. Bake for 20 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "description": "A rustic vegetable stew with a rich tomato sauce.",
+                "image": "https://img.freepik.com/premium-photo/pan-pasta-with-tomato-sauce-basil-leaves-dark-background_107062-826.jpg?size=626&ext=jpg&ga=GA1.2.272230184.1683002624&semt=sph",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup olive oil",
+                    "Salt and pepper to taste"
+                ],
+                "cookingMethod": "1. Cook pasta according to package instructions. \n2. In a food processor, pulse basil leaves and garlic until finely chopped. \n3. Add Parmesan cheese and pulse to combine. \n4. With the food processor running, slowly pour in olive oil until the mixture forms a smooth sauce. \n5. Season with salt and pepper to taste. \n6. Toss pasta with pesto sauce.",
+                "rating": 4.2
+            },
+            {
+                "name": "Grilled Salmon",
+                "description": "A decadent dessert with a light, airy texture.",
+                "image": "https://img.freepik.com/free-photo/side-view-grilled-salmon-served-with-vegetables-sauce-wooden-board_140725-11974.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=ais",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tablespoons lemon juice",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon ground black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill for medium heat. \n2. In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper. \n3. Brush salmon with the olive oil mixture. \n4. Place salmon on the grill, skin side down. \n5. Grill for 10 to 12 minutes, or until the fish flakes easily with a fork.",
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": "6",
-        "pictureUrl": "https://example.com/chef6.jpg",
+        "pictureUrl": "https://img.freepik.com/premium-psd/hispanic-pretty-young-adult-expressive-woman-chef-concept-empty-clean-dish_1194-481542.jpg?size=626&ext=jpg&ga=GA1.2.272230184.1683002624&semt=sph",
         "name": "Jessica Chen",
         "experience": "12 years",
         "recipes": "250+",
-        "likes": "5,500+"
+        "likes": "5,500+",
+        "recipesList": [
+            {
+                "name": "Chicken Parmesan",
+                "description": "Juicy, tender roast chicken with crispy skin.",
+                "image": "https://img.freepik.com/free-photo/baked-turkey-christmas-dinner-christmas-table-is-served-with-turkey-decorated-with-bright-tinsel-candles-fried-chicken-table-family-dinner_2829-6079.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=aiss",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup all-purpose flour",
+                    "2 eggs, beaten",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons olive oil"
+                ],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Place breadcrumbs and Parmesan cheese in a shallow dish. \n3. Place flour in a separate shallow dish. \n4. Place beaten eggs in another shallow dish. \n5. Coat chicken breasts in flour, shaking off excess. \n6. Dip in egg, then coat in breadcrumb mixture. \n7. Heat olive oil in a large skillet over medium-high heat. \n8. Add chicken to skillet and cook until browned on both sides. \n9. Transfer chicken to a baking dish. \n10. Pour marinara sauce over chicken. \n11. Top with shredded mozzarella cheese. \n12. Bake for 20 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "description": "A rustic vegetable stew with a rich tomato sauce.",
+                "image": "https://img.freepik.com/premium-photo/pan-pasta-with-tomato-sauce-basil-leaves-dark-background_107062-826.jpg?size=626&ext=jpg&ga=GA1.2.272230184.1683002624&semt=sph",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup olive oil",
+                    "Salt and pepper to taste"
+                ],
+                "cookingMethod": "1. Cook pasta according to package instructions. \n2. In a food processor, pulse basil leaves and garlic until finely chopped. \n3. Add Parmesan cheese and pulse to combine. \n4. With the food processor running, slowly pour in olive oil until the mixture forms a smooth sauce. \n5. Season with salt and pepper to taste. \n6. Toss pasta with pesto sauce.",
+                "rating": 4.2
+            },
+            {
+                "name": "Grilled Salmon",
+                "description": "A decadent dessert with a light, airy texture.",
+                "image": "https://img.freepik.com/free-photo/side-view-grilled-salmon-served-with-vegetables-sauce-wooden-board_140725-11974.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=ais",
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "1 pound salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tablespoons lemon juice",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon ground black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill for medium heat. \n2. In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper. \n3. Brush salmon with the olive oil mixture. \n4. Place salmon on the grill, skin side down. \n5. Grill for 10 to 12 minutes, or until the fish flakes easily with a fork.",
+                "rating": 4.5
+            }
+        ]
     }
 ]

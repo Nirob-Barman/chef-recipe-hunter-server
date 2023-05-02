@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://example.com/chef1.jpg",
+        "name": "John Smith",
+        "bio": "John is a classically trained chef with a passion for using fresh, seasonal ingredients. He has worked in top-rated restaurants in New York and Paris and has won several awards for his culinary skills. In his free time, he enjoys hiking and photography.",
+        "likes": 1000,
+        "recipes": 20,
+        "experience": "15 years",
+        "recipesList": [
+            {
+                "name": "Roast Chicken",
+                "description": "Juicy, tender roast chicken with crispy skin.",
+                "image": "https://example.com/roastchicken.jpg"
+            },
+            {
+                "name": "Ratatouille",
+                "description": "A rustic vegetable stew with a rich tomato sauce.",
+                "image": "https://example.com/ratatouille.jpg"
+            },
+            {
+                "name": "Chocolate Mousse",
+                "description": "A decadent dessert with a light, airy texture.",
+                "image": "https://example.com/mousse.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://example.com/chef2.jpg",
+        "name": "Alice Johnson",
+        "bio": "Alice is a vegetarian chef who specializes in plant-based cuisine. She has written several cookbooks and has appeared on TV shows promoting healthy eating. In her free time, she enjoys practicing yoga and reading.",
+        "likes": 1500,
+        "recipes": 30,
+        "experience": "10 years",
+        "recipesList": [
+            {
+                "name": "Vegetable Stir-Fry",
+                "description": "A colorful mix of fresh vegetables in a savory sauce.",
+                "image": "https://example.com/stirfry.jpg"
+            },
+            {
+                "name": "Quinoa Salad",
+                "description": "A light and refreshing salad with quinoa, fresh herbs, and lemon vinaigrette.",
+                "image": "https://example.com/quinoasalad.jpg"
+            },
+            {
+                "name": "Black Bean Burgers",
+                "description": "Hearty, flavorful burgers made with black beans and spices.",
+                "image": "https://example.com/blackbeanburgers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://example.com/chef3.jpg",
+        "name": "David Lee",
+        "bio": "David is a fusion chef who blends Asian and Western flavors in his dishes. He has traveled extensively to learn about different culinary traditions and has worked in Michelin-starred restaurants in Hong Kong and London. In his free time, he enjoys hiking and playing the guitar.",
+        "likes": 2000,
+        "recipes": 25,
+        "experience": "12 years",
+        "recipesList": [
+            {
+                "name": "Sushi Rolls",
+                "description": "Delicious sushi rolls with fresh fish and vegetables.",
+                "image": "https://example.com/sushi.jpg"
+            },
+            {
+                "name": "Braised Pork Belly",
+                "description": "Tender, succulent pork belly with a savory soy glaze.",
+                "image": "https://example.com/porkbelly.jpg"
+            }
+        ]
+    }
+]
