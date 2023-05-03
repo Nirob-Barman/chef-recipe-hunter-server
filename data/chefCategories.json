@@ -3,6 +3,7 @@
         "id": "1",
         "pictureUrl": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
         "name": "John Doe",
+        "bio": "John Doe is an experienced chef with over 10 years of culinary experience. He specializes in Italian and French cuisine.",
         "experience": "10 years",
         "recipes": "200+",
         "likes": "4,500+",
@@ -63,6 +64,7 @@
         "id": "2",
         "pictureUrl": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
         "name": "Jane Smith",
+        "bio": "Jane Smith is a passionate chef who loves experimenting with new ingredients and flavors. She has won multiple awards for her innovative recipes.",
         "experience": "15 years",
         "recipes": "300+",
         "likes": "6,000+",
@@ -122,7 +124,8 @@
     {
         "id": "3",
         "pictureUrl": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
-        "name": "Mike Johnson",
+        "name": "Bob Johnson",
+        "bio": "Bob Johnson is a classically trained chef with a focus on farm-to-table cooking. He has worked in some of the top restaurants in the world.",
         "experience": "5 years",
         "recipes": "100+",
         "likes": "2,000+",
@@ -182,8 +185,8 @@
     {
         "id": "4",
         "pictureUrl": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
-        "name": "Sara Lee",
-        "experience": "20 years",
+        "name": "Alice Lee",
+        "bio": "Alice Lee is a chef who specializes in vegan and vegetarian cuisine. She is passionate about using fresh, organic ingredients in her cooking.",
         "recipes": "500+",
         "likes": "8,000+",
         "recipesList": [
@@ -242,7 +245,8 @@
     {
         "id": "5",
         "pictureUrl": "https://img.freepik.com/free-photo/medium-shot-smiley-people-cooking-pasta_23-2149631678.jpg?size=626&ext=jpg&ga=GA1.1.272230184.1683002624&semt=sph",
-        "name": "David Kim",
+        "name": "David Chen",
+        "bio": "David Chen is a chef who specializes in Asian cuisine. He has traveled extensively throughout Asia to learn about different cooking techniques and ingredients.",
         "experience": "8 years",
         "recipes": "150+",
         "likes": "3,500+",
@@ -302,7 +306,8 @@
     {
         "id": "6",
         "pictureUrl": "https://img.freepik.com/premium-psd/hispanic-pretty-young-adult-expressive-woman-chef-concept-empty-clean-dish_1194-481542.jpg?size=626&ext=jpg&ga=GA1.2.272230184.1683002624&semt=sph",
-        "name": "Jessica Chen",
+        "name": "Sarah Kim",
+        "bio": "Sarah Kim is a pastry chef who creates beautiful and delicious desserts. She has won numerous awards for her creative and innovative desserts.",
         "experience": "12 years",
         "recipes": "250+",
         "likes": "5,500+",
